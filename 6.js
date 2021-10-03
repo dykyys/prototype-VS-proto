@@ -22,11 +22,11 @@ function Component() {}
 function ComponentB() {}
 // console.log(Component.__proto__ === ComponentB.__proto__);
 // console.log(Component.prototype === ComponentB.prototype);
-
+// console.log(Component.prototype);
 //===============================
 const arrowAdd = () => {};
 // console.log(arrowAdd.prototype === Object.prototype);
-
+// console.log(arrowAdd.prototype);
 //===============================
 const valueA = 5;
 // console.log(valueA.prototype === Number.prototype);

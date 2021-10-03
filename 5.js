@@ -2,7 +2,7 @@ const book = {
   title: "The Last Kingdom",
 };
 // console.log(book.__proto__);
-
+// console.log(book.prototype);
 class User {
   constructor(name) {
     this.name = name;
