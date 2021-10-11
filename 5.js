@@ -18,7 +18,7 @@ const mango = new User("Mango");
 // console.log(User.prototype);
 // console.log(Function.prototype.__proto__ === Object.prototype);
 // console.log(Object.prototype);
-//console.log(Object.prototype.__proto__);
+// console.log(Object.prototype.__proto__);
 // console.log(User.prototype.__proto__ === Object.prototype);
 
 const arrowAdd = () => {};
